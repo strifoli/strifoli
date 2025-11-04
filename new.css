@@ -1,0 +1,49 @@
+div{
+background-color: white;
+text-align-last: left; display:contents
+}
+body{
+            background-color:beige;
+            font-family:monospace;
+            font-style:oblique;
+}
+table{
+          border-color:orange;
+          border-style:double;
+          border-width:medium;
+          width: 500px
+}
+          
+#footer{
+          text-align: center;
+          margin-bottom:20px;
+          position:absolute; bottom: 0
+          
+}
+
+#img{
+          text-align: auto
+          width="700px"
+                  float="right"
+}
+
+.relative1{
+ position: relative
+}
+
+.relative2{
+ position: relative;
+right: 100px
+}
+.relative3{
+ position: relative;
+right: 200px
+}
+.relative4{
+ position: relative;
+right: 400px
+}
+.text-container {
+word-wrap: break-word;
+}
+
